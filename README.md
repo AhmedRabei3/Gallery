@@ -1,4 +1,4 @@
-<h1>Gallery-Ap</h1>
+<h1>Gallery-App</h1>
 <div>
 <h3>A simple app to view picture with MERN stack</h3>
 <br/>
