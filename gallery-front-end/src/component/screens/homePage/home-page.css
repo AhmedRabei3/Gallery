@@ -1,0 +1,20 @@
+.home-page {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.pagination-home-page{
+  height: calc(100vh - 135px);
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 500px) {
+    .home-page{
+      width : 100%;
+    }
+  }
